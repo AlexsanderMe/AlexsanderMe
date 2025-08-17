@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=header"/>
+
 # Hi there, I'm Alexsander! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-meiniche)
@@ -5,10 +7,10 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer passionate about creating innovative solutions! Currently pursuing a Software Engineering degree and focused on developing web applications with Python and JavaScript. I'm constantly learning and applying new technologies in practical projects.
+Software Engineering student passionate about creating innovative solutions! Currently pursuing a Software Engineering degree and focused on developing web applications with Python and JavaScript. I'm constantly learning and applying new technologies in practical projects.
 
 ### 🎓 Education
-- 📚 Bachelor's in Software Engineering - Estácio de Sá University (4th semester)
+- 📚 Bachelor's in Software Engineering - Estácio de Sá University (5th semester)
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +27,11 @@ My personal website developed with Flask and hosted on Vercel.
 
 [🔗 View Project](https://devalexsander.vercel.app/)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexsanderMe&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMe&layout=compact&theme=dracula)
 
@@ -33,3 +39,5 @@ My personal website developed with Flask and hosted on Vercel.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexsander-meiniche)
 - 📧 [Email](mailto:alexsander.mei22@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer"/>
