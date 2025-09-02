@@ -32,11 +32,11 @@ My personal website developed with Flask and hosted on Vercel.
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexsanderMe&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexsanderMe&bg_color=0a0e13&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
 </p>
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMe&layout=compact&langs_count=7&bg_color=0a0e13&text_color=15e5a6&title_color=15e5a6&border_color=07e9a5&hide_border=true"/>
 </div>
 
 ## 📫 How to Reach Me
