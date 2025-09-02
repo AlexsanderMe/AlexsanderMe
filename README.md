@@ -1,9 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=80&section=header"/>
 
 # Hi there, I'm Alexsander! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-meiniche)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://devalexsander.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsander.mei22@gmail.com)
 
 ## 👨‍💻 About Me
 
@@ -22,22 +23,25 @@ Software Engineering student passionate about creating innovative solutions! Cur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Personal Portfolio
-My personal website developed with Flask and hosted on Vercel.
+## 🚀 Featured Project
 
+**Personal Portfolio**  
+My personal website developed with Flask and hosted on Vercel.  
 [🔗 View Project](https://devalexsander.vercel.app/)
 
-## 📈 GitHub Stats & Achievements
+## 📈 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexsanderMe&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexsanderMe&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMe&layout=compact&theme=dracula)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderMe&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexsander-meiniche)
 - 📧 [Email](mailto:alexsander.mei22@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=60&section=footer"/>
